@@ -2,7 +2,7 @@
 
 By Laura Donnelly
 
-## Setip
+## Setup
 
 1. Sign up for a free GitHub account.
 2. Go to the repository page in your browser.
