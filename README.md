@@ -18,7 +18,7 @@ By Laura Donnelly
 - Codespaces
 - Jupyter
 
-Weekly Tasks 
+## Weekly Tasks 
 Task 1: Source the Data Set
 Import the Iris data set from the sklearn.datasets module.
 Explain, in your own words, what the load_iris() function returns.
