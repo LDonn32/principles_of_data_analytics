@@ -1,8 +1,14 @@
 # Principles of Data Analytics
 
 By Laura Donnelly
+Student ID: G00472977
 
-## Setup
+## Introduction
+
+This repository holds weekly tasks for the Principles of Data Analytics Module for the Higher Diploma in Computer Science in Data Anayltics course, ATU.
+Ten tasks were assigned and completed using a Jupyter notebook
+
+## Setup 
 
 1. Sign up for a free GitHub account.
 2. Go to the repository page in your browser.
