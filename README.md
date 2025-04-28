@@ -2,11 +2,14 @@
 
 By Laura Donnelly
 Student ID: G00472977
+Contact Email: G00472977@atu.ie
 
 ## Introduction
 
 This repository holds weekly tasks for the Principles of Data Analytics Module for the Higher Diploma in Computer Science in Data Anayltics course, ATU.
-Ten tasks were assigned and completed using a Jupyter notebook. This ReadMe file will give an overview of the following:
+Ten tasks were assigned and completed using a Jupyter notebook. The Jupyther Notebook, tasks.ipynb contains all the code. The markdown cells will contain insights and comments on the code's function. The markdown cells will also include references of resources used to complete the tasks. 
+
+This ReadMe file will give an overview of the following:
 
 - How to set up the environmemt to run the code in the tasks.
 - The technologies used for this module.
@@ -81,3 +84,6 @@ R
 **Task 10: Too Many Features**
 Use seaborn to create a pairplot of the data set.
 Explain, in your own words, what the pairplot depicts.
+
+
+
