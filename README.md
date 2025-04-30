@@ -4,6 +4,13 @@ By Laura Donnelly
 Student ID: G00472977
 Contact Email: G00472977@atu.ie
 
+## TO DO - 
+
+Tidy up Task 3 and Task 9 references. Task 3's code could be cleaner, look back over it, looks like I did the medium twice, two different ways.
+
+Go over the read me and see if anything else can add, maybe about cloning the repository to run the programs
+
+
 ## Introduction
 
 This repository holds weekly tasks for the Principles of Data Analytics Module for the Higher Diploma in Computer Science in Data Anayltics course, ATU.
