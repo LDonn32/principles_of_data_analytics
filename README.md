@@ -4,6 +4,17 @@ By Laura Donnelly
 Student ID: G00472977
 Contact Email: G00472977@atu.ie
 
+## TO DO - 
+
+Add in explaination of mean, min etc and some of the forumlas
+
+Check req.txt file and add missing packages
+
+Tidy up Task 3 and Task 9 references. Task 3's code could be cleaner, look back over it, looks like I did the medium twice, two different ways.
+
+Go over the read me and typos 
+
+
 ## Introduction
 
 This repository holds weekly tasks for the Principles of Data Analytics Module for the Higher Diploma in Computer Science in Data Anayltics course, ATU.
@@ -16,13 +27,33 @@ This ReadMe file will give an overview of the following:
 - The packages used for this module.
 - The weekly tasks outlined.
 
-## Setup 
+## Repository Contents:
+tasks.ipynb: Jupyter Notebook that contains all ten assigned tasks with the code, explanations for the code and references.
+
+requirements.txt: List of the Python packages required to run the notebook.
+
+.gitignore: Specifies files and directories to be ignored by Git.
+
+## Setup your own repository
 
 1. Sign up for a free GitHub account.
 2. Go to the repository page in your browser.
 3. Click the green Code button.
 4. Click the Codespaces tab.
-5. Click Create new Codespace on main. 
+5. Click Create new Codespace on main.
+
+
+# Clone the Repository:
+```
+git clone https://github.com/LDonn32/principles_of_data_analytics.git
+
+```
+# Install Required Packages:
+```
+pip install -r requirements.txt
+```
+Please see [Github.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for reference on cloning repository.
+
 
 ## Technologies used:
 
@@ -34,7 +65,6 @@ This ReadMe file will give an overview of the following:
 
 ## Packages used:
 Please refer to the requirements.txt file to see what packages were used for this Jupyter notebook.
-
 
 ## Weekly Tasks Outline
 
@@ -84,6 +114,21 @@ R
 **Task 10: Too Many Features**
 Use seaborn to create a pairplot of the data set.
 Explain, in your own words, what the pairplot depicts.
+
+
+## Key Resources Used: 
+
+Below are resources used frequently for the tasks but they are referenced directly in the Jupyter Notebook. 
+
+[Panda Documentation](https://pandas.pydata.org/docs/)
+[Numpy Documentation](https://numpy.org/doc/)
+[Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
+[Seaborn Documentation](https://seaborn.pydata.org/)
+[scikit-learn.org](https://scikit-learn.org/stable/index.html)
+[Geeksforgeeks.org](https://www.geeksforgeeks.org/)
+[W3schools.com](https://www.w3schools.com/)
+
+I used [ChatGBT](https://chatgpt.com/)chatGBT for support and prompts were referenced in the chats.
 
 
 
