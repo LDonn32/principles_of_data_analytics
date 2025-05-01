@@ -8,9 +8,11 @@ Contact Email: G00472977@atu.ie
 
 Add in explaination of mean, min etc and some of the forumlas
 
+Check req.txt file and add missing packages
+
 Tidy up Task 3 and Task 9 references. Task 3's code could be cleaner, look back over it, looks like I did the medium twice, two different ways.
 
-Go over the read me and see if anything else can add, maybe about cloning the repository to run the programs
+Go over the read me and typos 
 
 
 ## Introduction
