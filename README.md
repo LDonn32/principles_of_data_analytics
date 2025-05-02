@@ -123,11 +123,17 @@ Explain, in your own words, what the pairplot depicts.
 Below are resources used frequently for the tasks but they are referenced directly in the Jupyter Notebook. 
 
 [Panda Documentation](https://pandas.pydata.org/docs/)
+
 [Numpy Documentation](https://numpy.org/doc/)
+
 [Matplotlib Documentation](https://matplotlib.org/stable/users/index.html)
+
 [Seaborn Documentation](https://seaborn.pydata.org/)
+
 [scikit-learn.org](https://scikit-learn.org/stable/index.html)
+
 [Geeksforgeeks.org](https://www.geeksforgeeks.org/)
+
 [W3schools.com](https://www.w3schools.com/)
 
 I used [ChatGBT](https://chatgpt.com/)chatGBT for support and prompts were referenced in the Jupyter Notebook.
@@ -136,6 +142,7 @@ I used [ChatGBT](https://chatgpt.com/)chatGBT for support and prompts were refer
 ## Additional Resources used: 
 
 [www.kaggle.com](https://www.kaggle.com/code/shrutimechlearn/step-by-step-pca-with-iris-dataset?scriptVersionId=11461313&cellId=7)
+
 [Iris Dataset Archive UCI ]( https://archive.ics.uci.edu/datasets/)
 
 
