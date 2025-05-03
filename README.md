@@ -8,14 +8,6 @@ Student ID: G00472977
 
 Contact Email: G00472977@atu.ie
 
-## TO DO - 
-
-
-Tidy up Task 9 references. Task 9 i have using r2 score and manually doing it, will prob go with r2 score version of code as it is easier, but need to add clearer comments, markdown explainations as well as double check references are in write place and all added, none missed. Should be last task to do before going over everything and moving all imports to the top 
-
-Go over the read me and typos 
-
-
 ## Introduction
 
 This repository holds weekly tasks for the Principles of Data Analytics Module for the Higher Diploma in Computer Science in Data Anayltics course, ATU.
